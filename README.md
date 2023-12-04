@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+풀스택개발자 꿈나무 입니다!
+취미는 웨이크보드와 서핑, 여행을 좋아합니다.
+
+
 <!--
 **minji856/minji856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
