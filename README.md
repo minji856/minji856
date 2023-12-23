@@ -6,7 +6,7 @@
 Skils
 
 
-<img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat-square&logo=Node.js&logoColor=33993"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=33993"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **minji856/minji856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
