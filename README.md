@@ -6,7 +6,7 @@
 Skils
 
 
-https://img.shields.io/badge/<LABEL>-node.js-339933
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
