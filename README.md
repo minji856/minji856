@@ -4,6 +4,8 @@
 취미는 웨이크보드와 서핑, 여행을 좋아합니다.
 
 Skils
+https://img.shields.io/badge/:badgeContent
+
 https://img.shields.io/badge/<LABEL>-node.js-339933
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
