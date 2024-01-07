@@ -9,8 +9,8 @@
 
 🎁About Me🎁
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"/>
-<a href="https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"/></a>
+<a href="https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"></a>
+<img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"/></a>
 <br><br>
 <!--
 **minji856/minji856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
