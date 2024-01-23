@@ -2,14 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋,%20I'm%20Minji!&fontSize=40&color=C5E2FF)
 
-<br>
 <h1>✨Skils✨</h1>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <br>
-<br>
-
-
 
 <h1>🎁About Me🎁</h1>
 
@@ -31,10 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji856&layout=compact)
-<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji856&show_icons=true&theme=radical)
-
 
 </div>
