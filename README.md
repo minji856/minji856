@@ -9,7 +9,7 @@
 
 <h1>🎁About Me🎁</h1>
 
-<a href="https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"></a>
+<a href="https://www.notion.so/maymin/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"></a>
 <a href="https://velog.io/@maymin96/posts/"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://www.notion.so/PROGRAMMER-a3ec34e731664d11b9ec38bb46bd7e5b"/></a>
 
 <br><br>
